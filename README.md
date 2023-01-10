@@ -18,3 +18,33 @@ space-evenly : 동일 간격으로 공간 확보
 space-between : 요소들 사이에만 여유 공간을 두고 배치
 
 https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbbpMKe%2FbtqPZJBlLWm%2F2lkHw2KsAspMrkVu02WKC0%2Fimg.png
+
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+flex-direction
+
+: 요소들을 배열하는 순서와 축을 지정하는 속성 
+row : 행방향으로 정렬
+row-reverse : 행방향으로 정렬 + 반대 순서
+column : 열방향으로 정렬
+column-reverse : 열방향으로 정렬 + 반대 순서
+
+https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbPCwpK%2FbtqP0tkE9oq%2FjkiIvQAOTyWeKmF3dpnn40%2Fimg.png
+
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+
+flex-wrap
+: 줄바꿈 기준
+
+nowrap : 모양을 변경하면서 줄 유지 (default)
+wrap : 모양을 유지하며 다음줄로 넘김 + 위에서 아래 순으로
+wrap-reverse : 모양을 유지하며 다음줄로 넘김 + 아래서 위 순으로
+
+https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FCdY51%2FbtqPQs14yYU%2FoBP6ek4r0ptBRcOEAizth0%2Fimg.png
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
